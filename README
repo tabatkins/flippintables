@@ -1,0 +1,5 @@
+This is just a trivial little PHP script used to run the twitter.com/flippintables account.
+
+It is missing a few things that would be required to actually run it, notably the tmh0auth class and the $authData that authorizes the script.
+
+It is hosted on GitHub solely so other people can improve it for me.
